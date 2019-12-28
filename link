@@ -1,0 +1,12 @@
+<ul>
+<li><h3>링크를 걸어보자!</h3></li>
+<p>
+  <ol>
+    <li>링크를 걸고 싶은 문장의 부분을 a(정보의 바다에서 정박한다는 뜻의 anchor)태그로 감싼다.</li>
+    <li>a 태그를 시작한 부분의 >바로 뒤에 href(HyperText Reference의 약자)="링크를 걸고 싶은 사이트의 주소"를 넣는다.</li>
+    <li>그 바로 뒤에 target = "-blank"은 링크를 클릭했을 때 새로운 창에서 열겠다는 뜻이다.</li>
+    <li>그 뒤에 title = "이 링크가 어떤 내용을 담고 있는지를 툴팁으로 보여주는 기능 "</li>
+    <li><a href="https://www.w3.org/TR/html5/" target="_blank" title = "공식 사용설명서 페이지">HTML에 대한 공식 설명서를 보고싶다면?</a></li>
+    <li><a href="http://info.cern.ch " target="_blank" title = "세계 최초의 웹 페이지">팀 버너스 리가 만든 세계 최초의 웹 페이지를 보고 싶다면?</a></li>
+  </ol></p>
+  </ul>
